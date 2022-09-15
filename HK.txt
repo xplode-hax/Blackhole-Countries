@@ -2519,5 +2519,3 @@ ip route add blackhole 223.223.216.0/22
 ip route add blackhole 223.255.128.0/18
 ip route add blackhole 223.255.240.0/22
 ip route add blackhole 223.255.248.0/22
-
-iptables-save
